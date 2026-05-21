@@ -1,6 +1,14 @@
 # Nexus Calculator Suite
 
 A professional multi-tab calculator application built with Python and `ttkbootstrap`.
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/dca_breakeven.png" alt="DCA Breakeven" width="400"/>
+  <img src="screenshots/data_plan.png" alt="Data Plan Comparator" width="400"/>
+  <img src="screenshots/compound_interest.png" alt="Compound Interest" width="400"/>
+  <img src="screenshots/percent_change.png" alt="Percent Change" width="400"/>
+</div>
 
 ## Features
 
